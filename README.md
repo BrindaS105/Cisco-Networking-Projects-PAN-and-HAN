@@ -1,62 +1,54 @@
-# Cisco Networking Projects – PAN and HAN
 
-## Project Overview
+# Personal Area Network (PAN) Using Cisco Packet Tracer
 
-This repository showcases two computer networking projects based on Personal Area Network (PAN) and Home Area Network (HAN).
+## Introduction
 
-The projects demonstrate fundamental networking concepts, network architecture, device connectivity, network topology, and communication between connected devices using Cisco networking tools.
+A Personal Area Network (PAN) is a network that connects personal electronic devices within a limited geographical area.
 
-## Projects Included
+This project demonstrates a PAN topology designed using Cisco Packet Tracer. The network includes a PC, laptop, smartphone, tablet, and wireless access point.
 
-### Project 1: Personal Area Network (PAN)
+## Project Objective
 
-A Personal Area Network is a small network that connects personal electronic devices within a limited range.
+The main objective is to understand how personal electronic devices can be connected within a small network environment and how wireless networking supports communication between devices.
 
-Key concepts:
-- Personal device connectivity
-- Short-range communication
-- Network architecture
-- Device communication
-- PAN applications and benefits
+## Devices Used
 
-### Project 2: Home Area Network (HAN)
+1. PC
+2. Laptop
+3. Smartphone
+4. Tablet
+5. Access Point
 
-A Home Area Network connects multiple devices within a residential environment to enable communication and resource sharing.
+## Network Architecture
 
-Key concepts:
-- Home network architecture
-- Router and device connectivity
-- Local network communication
-- Network topology
-- Home network applications
+The project uses an access point as part of the personal network topology.
 
-## Tools and Technologies
+The PC, laptop, smartphone, and tablet are represented as personal devices in the network.
 
-- Cisco Packet Tracer (if used)
-- Computer Networking Fundamentals
-- Network Topology Design
-- IP Addressing
-- Network Configuration
-- Device Connectivity
+## Network Design
 
-## Repository Structure
+The topology demonstrates:
+- Personal computing device connectivity.
+- Mobile device connectivity.
+- Wireless access point integration.
+- A small-scale personal networking environment.
 
-- Project-1-Personal-Area-Network
-- Project-2-Home-Area-Network
-- Skills-Demonstrated
+## Software Used
 
-## Learning Outcomes
+Cisco Packet Tracer
 
-- Understanding different types of computer networks.
-- Learning network architecture and topology.
-- Understanding device connectivity and communication.
-- Exploring PAN and HAN applications.
-- Developing foundational networking knowledge.
+## Project Files
+
+- Screenshots/PAN.png – Network topology screenshot.
+- Packet-Tracer-Files/PAN.pkt – Cisco Packet Tracer project file.
+
+## Applications of PAN
+
+- Connecting personal computing devices.
+- Wireless communication.
+- Personal device networking.
+- Sharing information between compatible devices.
 
 ## Conclusion
 
-These projects provided practical exposure to networking concepts and helped strengthen my understanding of how personal and home networks are designed and connected.
-
-## Disclaimer
-
-This repository is intended for educational and portfolio purposes. Network configurations and screenshots are included only where available.
+This project helped develop an understanding of Personal Area Network concepts, wireless access point integration, and connectivity between personal electronic devices using Cisco Packet Tracer.
